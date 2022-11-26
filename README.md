@@ -6,6 +6,6 @@ During these sessions, we made an app using MongoDB, ExpressJS, VueJS and Node.j
 
 The frontend of the project is pushed here and the backend is hosted via Heroku app.
 
-Frontend: https://vishalrawat64.github.io/esdmevnproject/frontend/
+Frontend: https://vish-rt.github.io/esdmevnproject/frontend/
 
 Backend: https://esdmevnproject.herokuapp.com/
